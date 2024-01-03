@@ -1,5 +1,7 @@
 # Comprehensive Evaluation of Molecular Fingerprints in Drug Discovery
 
+![Alt text for the image](misc_assets/molecules.webp)
+
 ## Abstract
 
 In the rapidly evolving field of drug discovery, the integration of chemoinformatics with machine learning (ML) and deep learning (DL) has become increasingly crucial. This study presents a thorough evaluation of various molecular fingerprinting techniques, pivotal in the realm of computational drug design, by assessing their efficacy in ML and DL models. Utilizing a diverse array of chemical datasets, including ChEMBL, PubChem, and ZINC, we meticulously generated and compared a broad spectrum of molecular fingerprints, such as Extended-Connectivity Fingerprints (ECFP), MACCS Keys, and novel neural-based fingerprints.
